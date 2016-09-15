@@ -1,6 +1,6 @@
 var React = require("react");
 var ReactCSSTransitionGroup = require("react-addons-css-transition-group");
-require("./styles.less");
+require("./styles.sass");
 
 var AlertsNotifier = React.createClass({
 	propTypes: {
